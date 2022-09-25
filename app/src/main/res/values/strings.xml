@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MoviesApplication</string>
+    <string name="movies">Movies</string>
+    <string name="popular_movies">Popular movies:</string>
+    <string name="recommendation">Recommendations:</string>
+    <string name="favourites">Favourites</string>
+    <string name="search_results">Search results:</string>
+    <string name="all_time_top_rated_movies">All time top rated movies:</string>
+    <string name="now_playing_in_cinemas">Now playing in cinemas:</string>
+    <string name="upcoming_movies">Upcoming movies:</string>
+    <string name="add_to_favourites">Add to favourites</string>
+    <string name="my_favourite_movies">My favourite movies:</string>
+</resources>
